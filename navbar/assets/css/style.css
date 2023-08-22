@@ -1,0 +1,37 @@
+nav {
+    justify-content: space-between;
+    margin: 10px 80px;
+}
+
+
+nav .logo {
+    gap: 25px;
+    align-items: center;
+}
+
+
+nav .logo p {
+    color: white;
+    font-size: 32px;
+}
+
+
+nav .wrapper-nav-button {
+    align-items: center;
+    gap: 20px;
+}
+
+nav .wrapper-nav-button ul {
+    gap: 28px;
+}
+
+nav .wrapper-nav-button ul li {
+    list-style-type: none;
+
+}
+
+nav .wrapper-nav-button ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
